@@ -101,6 +101,15 @@ Because ratio is a layout decision, not a style one: 1:1 for catalogue and icons
 
 That is the point. Keep the structure (subject + light + framing + setting + finish) and replace the subject; changing everything at once makes it impossible to tell which phrase moved the output.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, other languages** — 10 more language builds: 中文 `grok-imagine-1-5-edit-api-cn` · Deutsch `grok-imagine-1-5-edit-api-de` · Español [grok-imagine-1-5-edit-api-es](https://github.com/c-h93bzyc38vo3/grok-imagine-1-5-edit-api-es) · Français `grok-imagine-1-5-edit-api-fr` · Relay/gateway [grok-imagine-1-5-edit-api-gateway](https://github.com/b5ap9jopbp1b6/grok-imagine-1-5-edit-api-gateway) · Bahasa `grok-imagine-1-5-edit-api-id` · 日本語 `grok-imagine-1-5-edit-api-ja` · 한국어 [grok-imagine-1-5-edit-api-ko](https://github.com/id5913m6/grok-imagine-1-5-edit-api-ko) · Português [grok-imagine-1-5-edit-api-pt](https://github.com/lvgf2km19cgt5/grok-imagine-1-5-edit-api-pt) · Русский `grok-imagine-1-5-edit-api-ru`
+- **Topic hubs** — every build of this model, all languages: [grok-imagine-1-5-edit](https://github.com/topics/grok-imagine-1-5-edit) · [grok-imagine-1-5-edit-api](https://github.com/topics/grok-imagine-1-5-edit-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
